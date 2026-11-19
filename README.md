@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Abhishek Singh
 
-<!--
-**abhisheksingh-infracraft/abhisheksingh-infracraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud & Platform Engineering · SRE · APIs · Automation**
 
-Here are some ideas to get you started:
+I'm building hands-on projects across cloud engineering, platform engineering, reliability, and secure API integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+
+- **Cloud & containers:** Google Cloud (GCP), Kubernetes, Docker
+- **Platform & delivery:** Platform engineering, GitHub Actions, CI/CD
+- **SRE & observability:** Prometheus, Grafana, Loki, OpenTelemetry
+- **APIs & identity:** Apigee, API design, JWT, OIDC, PingFederate, ForgeRock, Azure AD / Microsoft Entra ID
+- **Automation & AI:** Python, Shell, AI agents, agentic automation
+
+## Current focus
+
+Developing practical examples for cloud automation, observable services, reliable deployments, and API authentication.
