@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abhishek Singh — Cloud and Platform Engineering</title>
+  <desc id="desc">A dark, graphic banner with cloud infrastructure, platform engineering, reliability, and automation motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#10243d"/>
+      <stop offset="1" stop-color="#132e43"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#20c997"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#9ac8ef" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="95" r="120" fill="#168aad" opacity=".20" filter="url(#soft)"/>
+  <circle cx="780" cy="300" r="130" fill="#20c997" opacity=".12" filter="url(#soft)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" opacity=".30" fill="#9ac8ef">
+    <text x="785" y="72" font-size="14">cloud: reliable</text>
+    <text x="920" y="300" font-size="14">platform: scalable</text>
+    <text x="1030" y="172" font-size="14">observability: on</text>
+  </g>
+  <g transform="translate(820 96)" fill="none" stroke="url(#glow)" stroke-width="3">
+    <path d="M20 115H75M125 115h50M75 115l18-38h32l18 38M93 77V48h32v29" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="0" y="96" width="38" height="38" rx="9" fill="#0c1b2b"/>
+    <rect x="158" y="96" width="38" height="38" rx="9" fill="#0c1b2b"/>
+    <rect x="89" y="31" width="40" height="38" rx="9" fill="#0c1b2b"/>
+    <path d="M99 48h20M109 39v18M10 109h18M168 109h18" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1080 54)" fill="none" stroke="#58a6ff" stroke-opacity=".8" stroke-width="2">
+    <circle cx="35" cy="35" r="27"/><circle cx="35" cy="35" r="16"/><circle cx="35" cy="35" r="5" fill="#20c997" stroke="none"/>
+    <path d="M35 0v12M35 58v12M0 35h12M58 35h12M10 10l9 9M51 51l9 9M60 10l-9 9M19 51l-9 9"/>
+  </g>
+  <rect x="64" y="69" width="5" height="220" rx="2.5" fill="url(#glow)"/>
+  <text x="94" y="145" fill="#e6edf3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">ABHISHEK SINGH</text>
+  <text x="96" y="188" fill="#a9c2d8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Cloud • Platform • Reliability • Automation</text>
+  <text x="96" y="245" fill="#58a6ff" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">BUILDING SYSTEMS THAT ARE REPEATABLE, OBSERVABLE &amp; SAFE</text>
+  <path d="M96 270h350" stroke="#58a6ff" stroke-opacity=".35"/>
+  <circle cx="96" cy="270" r="3" fill="#20c997"/>
+</svg>
