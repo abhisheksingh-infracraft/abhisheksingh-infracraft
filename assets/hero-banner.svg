@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Abhishek Kumar Singh — Platform Engineering</title>
+  <desc id="desc">Dark navy cloud engineering banner with a glowing network of cloud, Kubernetes, and automation nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#0c1c31"/><stop offset="1" stop-color="#102c43"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#9bd5f5" stroke-opacity=".07"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="17"/></filter>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/><rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+  <circle cx="952" cy="150" r="142" fill="#168aad" opacity=".15" filter="url(#glow)"/><circle cx="1080" cy="300" r="100" fill="#22d3ee" opacity=".10" filter="url(#glow)"/>
+  <rect x="70" y="72" width="5" height="232" rx="3" fill="url(#accent)"/>
+  <text x="104" y="144" fill="#e6edf3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">ABHISHEK KUMAR SINGH</text>
+  <text x="107" y="190" fill="#b7c9dc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Platform Engineer  ·  Cloud  ·  DevOps  ·  Kubernetes  ·  SRE</text>
+  <text x="107" y="242" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Building scalable cloud infrastructure and intelligent automation.</text>
+  <text x="107" y="278" fill="#92a9c2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="1">SAFE BY DEFAULT  /  REPEATABLE  /  OBSERVABLE</text>
+  <g transform="translate(786 76)" fill="none" stroke="url(#accent)" stroke-width="3">
+    <path d="M82 100 164 55l82 45v88l-82 46-82-46zM82 100l82 45 82-45M164 145v89M82 188l82-43 82 43" opacity=".72"/>
+    <path d="M55 93c-17 0-30-12-30-27 0-14 11-25 25-27 6-22 26-37 49-37 24 0 44 17 49 40 14 2 24 13 24 27 0 14-12 24-27 24H55z" transform="translate(0 18) scale(.72)" fill="#0a1a2c"/>
+    <rect x="144" y="128" width="40" height="34" rx="8" fill="#0a1a2c"/><path d="M154 145h20m-10-10v20" stroke-linecap="round"/>
+    <rect x="49" y="187" width="36" height="32" rx="7" fill="#0a1a2c"/><rect x="246" y="187" width="36" height="32" rx="7" fill="#0a1a2c"/>
+    <circle cx="164" cy="145" r="7" fill="#22d3ee" stroke="none"/><circle cx="82" cy="188" r="5" fill="#60a5fa" stroke="none"/><circle cx="246" cy="188" r="5" fill="#60a5fa" stroke="none"/>
+  </g>
+  <g font-family="ui-monospace,Consolas,monospace" fill="#8eb3d1" opacity=".75" font-size="12"><text x="866" y="335">cloud / network / platform</text><text x="1017" y="71">&lt; reliable systems &gt;</text></g>
+</svg>
