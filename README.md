@@ -1,90 +1,95 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Abhishek Singh — Cloud, Platform, Reliability, Automation" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Abhishek Singh — Platform Engineering, Cloud Infrastructure, DevOps, Kubernetes, SRE, GitOps, Automation" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Abhishek Singh 👋</h1>
+
+<p align="center"><strong>Platform Engineer | Cloud Infrastructure | DevOps | Kubernetes | SRE | GitOps | Automation</strong></p>
+
+<p align="center">
+  Building a practical engineering portfolio around cloud foundations, platform operations, and automation.<br />
+  I value safe defaults, clear verification, repeatable steps, and honest documentation.
 </p>
 
 <p align="center">
-  <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></a>
-  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
-  <a href="https://opentelemetry.io/"><img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"></a>
-</p>
-
-<h2 align="center">Hi, I'm Abhishek 👋</h2>
-<p align="center"><strong>Cloud &amp; Platform Engineering · SRE · APIs &amp; Identity · Automation</strong></p>
-
-<p align="center">
-  I build practical engineering projects around cloud infrastructure, developer platforms,<br />
-  service reliability, secure APIs, and automation—with an emphasis on safe, repeatable systems.
+  <a href="https://github.com/abhisheksingh-infracraft"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-abhisheksingh--infracraft-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/abhisheksingh-infracraft/gcp-training"><img alt="Google Cloud learning workspace" src="https://img.shields.io/badge/Google_Cloud-learning%20workspace-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧭 What I work on
+## About me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Cloud &amp; platforms</h3>
-      Google Cloud foundations, IAM, networking, containers, Kubernetes, Docker, and delivery workflows.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Reliability &amp; observability</h3>
-      Prometheus, Grafana, Loki, and OpenTelemetry—connecting service health, metrics, logs, and traces.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 APIs &amp; identity</h3>
-      Apigee, JWT, OIDC, PingFederate, ForgeRock, and Microsoft Entra ID.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Automation</h3>
-      Python, Shell, GitHub Actions, and carefully scoped AI/agent workflows.
-    </td>
-  </tr>
-</table>
+I’m developing a focused portfolio for **platform engineering, cloud infrastructure, DevOps, and SRE** roles. My public work currently centers on a structured Google Cloud learning workspace and PowerShell-based repository utilities. I document prerequisites, safe configuration, validation, cost awareness, and cleanup rather than presenting planned work as production experience.
 
-### 🛠️ My engineering principles
+**Current evidence:** [GCP Training](https://github.com/abhisheksingh-infracraft/gcp-training) is a structured learning workspace. It is currently private, so its contents are not publicly reviewable. The profile below distinguishes existing work from areas I plan to build out.
 
-`Least privilege` &nbsp; `Safe defaults` &nbsp; `Repeatable setup` &nbsp; `Clear verification` &nbsp; `Cost awareness` &nbsp; `Useful observability`
+## Engineering focus
 
-I aim to document prerequisites, architecture, expected results, and cleanup steps—while keeping secrets out of examples.
-
-### 🚀 Portfolio direction
-
-I'm building toward practical, documented examples. These are **areas of focus**, not claims that every project is already published; I'll add links here as projects are ready.
-
-```text
-GCP foundations  ──►  Kubernetes workflows  ──►  Observable services
-       │                       │                          │
-       └──────────────►  Secure APIs & identity  ◄────────┘
-                                  │
-                       Python / Shell automation
-```
-
-| Focus | Planned project qualities |
+| Domain | Current status |
 |:--|:--|
-| ☁️ GCP cloud engineering | Small repeatable labs, security notes, validation, and cleanup steps |
-| ☸️ Kubernetes platform workflows | Containerized workloads and automated delivery with GitHub Actions |
-| 🔭 SRE & observability | Examples that connect metrics, logs, traces, and service health |
-| 🔐 APIs & identity | Apigee and JWT/OIDC examples using test-only identities |
-| 🤖 Automation & agentic AI | Focused scripts and carefully scoped agent workflows |
+| Google Cloud | Structured learning workspace; GCP CLI setup, module outlines, and safety guidance |
+| Scripting and tooling | PowerShell is the detected language in the GCP training repository; Git workflow utilities are documented there |
+| Platform engineering, Kubernetes, CI/CD, IaC, and observability | Learning and portfolio roadmap—not represented here as verified professional or production experience |
 
-### 🧰 Technology toolbox
+### Areas I’m building toward
 
-<p>
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-Traces_%26_metrics-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-  <img alt="OIDC" src="https://img.shields.io/badge/OIDC-Identity-6B4FBB?style=flat-square" />
+`GCP` · `Azure` · `Kubernetes` · `Docker` · `Terraform` · `GitHub Actions` · `GitOps` · `Prometheus` · `Grafana` · `Python` · `Bash` · `PowerShell`
+
+These are areas of focus, not a claim of equal proficiency. I’ll link completed, reviewable implementations here as they are built and documented.
+
+## Portfolio
+
+### Current work
+
+- **[GCP Training](https://github.com/abhisheksingh-infracraft/gcp-training)** — structured Google Cloud learning path with lab checklists, notes, reusable templates, and safety guidance. *Repository is private at the time of writing.*
+- **Profile portfolio** — this repository; a public landing page for verified work and future project case studies.
+
+### Planned case studies
+
+The following are portfolio goals, not completed projects:
+
+1. GCP networking and a small, cost-conscious Kubernetes lab
+2. Kubernetes workload deployment, access control, and troubleshooting
+3. GitHub Actions validation and a GitOps deployment workflow
+4. Prometheus/Grafana monitoring for a sample service
+5. Reusable infrastructure automation with clear validation and teardown steps
+
+I’ll mark an item complete only after its implementation and documentation are publicly reviewable.
+
+## How I approach engineering
+
+- Prefer least privilege, safe defaults, and explicit prerequisites.
+- Keep secrets, credentials, and sensitive environment details out of examples.
+- Include validation and cleanup alongside setup instructions.
+- Make learning labs reproducible, cost-aware, and clear about their limitations.
+- Separate personal learning projects from professional production experience.
+
+## Learning and credentials
+
+I’m building practical knowledge through documented labs and small, reviewable implementations. No certifications or awards are listed here because none have been verified for this profile.
+
+## GitHub activity
+
+These cards are generated from live GitHub account data; availability and display depend on the third-party services that render them.
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhisheksingh-infracraft&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub contribution and repository statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksingh-infracraft&layout=compact&hide_border=true&theme=github_dark" alt="Most-used languages in public repositories" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh-infracraft&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak, based on account activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksingh-infracraft&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+## Contact
+
+For professional networking, project feedback, or collaboration, reach me through [GitHub](https://github.com/abhisheksingh-infracraft). Add a LinkedIn or email link here when you’re ready to share one publicly.
 
 ---
 
-<p align="center"><i>Growing this portfolio through hands-on GCP learning and broader cloud, platform engineering, and SRE work.</i></p>
+<p align="center"><sub>Portfolio status: work in progress. Project scope and skill statements will grow with verifiable implementations.</sub></p>
