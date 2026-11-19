@@ -1,28 +1,35 @@
 # Hi, I'm Abhishek Singh
 
-**Cloud Engineering | Platform Engineering | SRE | APIs & Identity | Automation**
+**Cloud & Platform Engineering · SRE · APIs & Identity · Automation**
 
-I'm building a practical engineering portfolio focused on cloud infrastructure, developer platforms, service reliability, secure APIs, and automation. I enjoy connecting the pieces that make systems useful in production: repeatable delivery, clear operational visibility, and identity-aware access.
+I build practical engineering projects around cloud infrastructure, developer platforms, service reliability, secure APIs, and automation. My focus is on making systems repeatable, observable, and safe to operate.
+
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 
 ## Engineering focus
 
 - **Cloud engineering:** Google Cloud (GCP), cloud foundations, IAM, networking, compute, containers, and infrastructure automation.
-- **Platform engineering:** Kubernetes, Docker, delivery workflows, and automation that helps make environments consistent and services easier to operate.
+- **Platform engineering:** Kubernetes, Docker, delivery workflows, and automation for consistent, operable environments.
 - **SRE and observability:** Prometheus, Grafana, Loki, and OpenTelemetry; monitoring, logs, traces, service health, and reliability practices.
-- **APIs and identity:** Apigee, API authentication and authorization, JWT, OIDC, PingFederate, ForgeRock, and Azure AD / Microsoft Entra ID.
+- **APIs and identity:** Apigee, API authentication and authorization, JWT, OIDC, PingFederate, ForgeRock, and Microsoft Entra ID.
 - **Automation and AI:** Python, Shell, AI agents, and agentic workflows.
 
-## Portfolio roadmap
+## Portfolio
 
-I'm building toward practical, documented examples in these areas:
+I'm building practical, documented examples in these areas. This list is a roadmap—not a claim that every project is already published. I'll link projects here as they become ready.
 
-1. **GCP cloud engineering** — small, repeatable labs with clear prerequisites, validation, security notes, and cleanup steps.
-2. **Kubernetes platform workflows** — containerized workloads and automated delivery using GitHub Actions.
-3. **SRE and observability** — instrumented services with OpenTelemetry and examples that connect metrics, logs, traces, and service health.
-4. **API and identity integration** — Apigee and JWT/OIDC examples using test-only identities and configurations.
-5. **Automation and agentic AI** — focused Python and Shell automation, plus carefully scoped agent workflows.
-
-These are portfolio goals, not claims that each project is already published. As projects are ready, I'll link them from this profile.
+| Focus | What I'm working toward |
+| --- | --- |
+| **GCP cloud engineering** | Repeatable labs with prerequisites, validation, security notes, and cleanup steps. |
+| **Kubernetes platform workflows** | Containerized workloads and automated delivery using GitHub Actions. |
+| **SRE and observability** | Instrumented services connecting metrics, logs, traces, and service health with OpenTelemetry. |
+| **API and identity integration** | Apigee and JWT/OIDC examples using test-only identities and configurations. |
+| **Automation and agentic AI** | Focused Python and Shell automation, plus carefully scoped agent workflows. |
 
 ## How I approach hands-on work
 
@@ -38,7 +45,7 @@ These are portfolio goals, not claims that each project is already published. As
 **Containers and platforms:** Kubernetes, Docker  
 **CI/CD and collaboration:** Git, GitHub, GitHub Actions  
 **Observability:** Prometheus, Grafana, Loki, OpenTelemetry  
-**APIs and identity:** Apigee, JWT, OIDC, PingFederate, ForgeRock, Microsoft Entra ID (Azure AD)  
+**APIs and identity:** Apigee, JWT, OIDC, PingFederate, ForgeRock, Microsoft Entra ID  
 **Automation and AI:** Python, Shell, AI agents, agentic automation
 
-I'm currently growing this portfolio from hands-on GCP learning toward broader cloud, platform engineering, and SRE work.
+I'm currently growing this portfolio through hands-on GCP learning and broader cloud, platform engineering, and SRE work.
